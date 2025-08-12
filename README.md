@@ -1,2 +1,1 @@
-# same-and-other
-Same and other
+# Same and other
